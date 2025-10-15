@@ -1,0 +1,5 @@
+# Ignore data files
+data/
+*.gz
+*.idx3-ubyte
+*.idx1-ubyte
